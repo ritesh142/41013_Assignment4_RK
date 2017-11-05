@@ -3,4 +3,4 @@
 
 Ritesh KUAMR - 11656978
 
-Please open and run script names RK_Assignment_4.m
+Please open and run script named 'RK_Assignment_4.m'
